@@ -17,7 +17,7 @@
 
 # Installation+Run🕸
 ```shell
-git clone https://github.com/ox1nec/openfi-bot
+git clone https://github.com/turyems/openfi-bot
 cd openfi-bot
 run.bat
 ```
@@ -25,7 +25,7 @@ run.bat
 **OR**
 
 ```shell
-git clone https://github.com/ox1nec/openfi-bot
+git clone https://github.com/turyems/openfi-bot
 cd openfi-bot
 pip install -r requirements.txt
 python bot.py
