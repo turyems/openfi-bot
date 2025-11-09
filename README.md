@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/+pB6j65Kv7cdjZmU0)
 
-# Recommendations before use:
+# Recommendations before use: 
 - **Use python 3.10🐍**
 
 # Features:
